@@ -1,4 +1,4 @@
-version="0.8.4"
+version="0.8.5"
 tags={
 	"Character Interactions"
 	"Events"
@@ -6,5 +6,5 @@ tags={
 	"Gameplay"
 }
 name="Dynamic Affairs"
-supported_version="1.12.*"
+supported_version="1.13.*"
 picture="thumbnail.png"

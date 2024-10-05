@@ -1,6 +1,8 @@
 ﻿lida_start_affair_decision = {
 	desc = lida_start_affair_decision_desc
-	picture = "gfx/interface/illustrations/decisions/start_affair.dds"
+	picture = {
+        reference = "gfx/interface/illustrations/decisions/start_affair.dds"
+    }
 
 	major = no
 	# player only decision
